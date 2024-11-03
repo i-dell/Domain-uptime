@@ -45,7 +45,7 @@ Send in a PR - we'd love to integrate your ideas.
 
 ## In case...
 
-You are looking for a developer friendly Feature flags, and A/B experimentation service for your product, check out: https://www.statsig.com
+You are looking for a developer friendly Feature flags, and A/B experimentation service for your product, check out: 
 
 
 <img width="839" alt="image" src="https://github.com/user-attachments/assets/81c71c38-0577-4f68-b0cf-46a512f48143">
