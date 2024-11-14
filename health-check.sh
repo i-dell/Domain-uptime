@@ -3,7 +3,7 @@
 # later upstream merges messy for anyone who forked us.
 commit=true
 origin=$(git remote get-url origin)
-if [[ $origin == *statsig-io/statuspage* ]]
+if [[ $origin == *i-dell/Domain-uptime* ]]
 then
   commit=false
 fi
